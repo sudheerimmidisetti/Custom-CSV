@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+
+# Allow only these files
+!custom_csv_reader.py
+!custom_csv_writer.py
+!generate_data.py
+!benchmark.py
+!README.md
+!requirements.txt
+
+# Allow the .gitignore itself
+!.gitignore
